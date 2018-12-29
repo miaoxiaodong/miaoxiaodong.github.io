@@ -154,7 +154,7 @@ links_layout: block
 # Sidebar Avatar
 # in theme directory(source/images): /images/avatar.gif
 # in site  directory(source/uploads): /uploads/avatar.gif
-avatar: https://imagedb-1257991841.cos.ap-beijing.myqcloud.com/WechatIMG1201.jpeg #/images/avatar.gif
+avatar: https://imagedb-1257991841.cos.ap-beijing.myqcloud.com/WechatIMG40617.jpeg #/images/avatar.gif
 
 # Table Of Contents in the Sidebar
 toc:
