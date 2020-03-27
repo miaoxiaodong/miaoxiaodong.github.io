@@ -2,7 +2,7 @@
 title: 十一长假旅行记
 date: 2017-11-26 15:09:52
 tags: [三亚, 长隆]
-categories: [游记]
+categories: [旅行游记]
 toc: true
 ---
 

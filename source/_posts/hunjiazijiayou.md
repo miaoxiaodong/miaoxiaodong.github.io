@@ -2,7 +2,7 @@
 title: 婚假自驾游
 date: 2018-12-26 15:09:52
 tags: [自驾, 婚假, 日照]
-categories: [游记]
+categories: [旅行游记]
 toc: true
 ---
 

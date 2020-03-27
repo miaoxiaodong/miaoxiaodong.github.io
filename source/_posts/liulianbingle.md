@@ -2,7 +2,7 @@
 title: 榴莲病了
 date: 2020-01-26 10:35:00
 tags: [榴莲]
-categories: [小事]
+categories: [突发事件]
 ---
 
 榴莲是我家的狗，一只4岁的金毛。

@@ -2,7 +2,7 @@
 title: 买房风波
 date: 2018-10-07 10:56:12
 tags: [买房]
-categories: [大事]
+categories: [人生大事]
 toc: true
 ---
 

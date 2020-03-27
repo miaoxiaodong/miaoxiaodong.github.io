@@ -2,7 +2,7 @@
 title: 上海迪士尼
 date: 2019-10-07 22:04:53
 tags: [迪士尼,上海]
-categories: [游记]
+categories: [旅行游记]
 toc: true
 ---
 

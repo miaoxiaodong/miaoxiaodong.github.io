@@ -2,7 +2,7 @@
 title: 普吉岛旅行记
 date: 2019-04-27 16:00:57
 tags: [泰国, 普吉岛]
-categories: [游记]
+categories: [旅行游记]
 toc: true
 ---
 

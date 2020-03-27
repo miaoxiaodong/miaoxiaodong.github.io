@@ -2,7 +2,7 @@
 title: 记四天的香港旅程
 date: 2016-11-22 16:00:57
 tags: [香港]
-categories: [游记]
+categories: [旅行游记]
 toc: true
 ---
 

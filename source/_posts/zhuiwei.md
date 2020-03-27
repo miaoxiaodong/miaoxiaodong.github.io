@@ -2,7 +2,7 @@
 title: 记一次追尾
 date: 2019-03-17 10:56:12
 tags: [追尾]
-categories: [大事]
+categories: [突发事件]
 toc: true
 ---
 

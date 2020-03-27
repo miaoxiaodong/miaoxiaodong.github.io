@@ -2,7 +2,7 @@
 title: 阿那亚之旅
 date: 2018-12-23 22:04:53
 tags: [阿那亚]
-categories: [游记]
+categories: [旅行游记]
 toc: true
 ---
 
