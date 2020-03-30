@@ -748,7 +748,7 @@ algolia_search:
 # Local Search
 # Dependencies: https://github.com/theme-next/hexo-generator-searchdb
 local_search:
-  enable: false
+  enable: true
   # If auto, trigger search by changing input.
   # If manual, trigger search by pressing enter key or search button.
   trigger: auto
@@ -760,7 +760,7 @@ local_search:
   preload: false
 
 # Swiftype Search API Key
-swiftype_key: CD-fkx5REPKsZZJzU259
+swiftype_key:
 
 
 # ---------------------------------------------------------------
