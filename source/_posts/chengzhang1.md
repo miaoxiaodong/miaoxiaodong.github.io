@@ -2,7 +2,7 @@
 title: 暖宝成长记1-满两月了
 date: 2020-12-17 08:00:00
 tags: [宝宝]
-categories: [成长日记]
+categories: [成长记录]
 ---
 
 - 身高：62cm
