@@ -1,7 +1,7 @@
 ---
 title: 给未来宝宝的日记14-9个月了
 date: 2020-09-10 08:00:00
-img: 
+img: https://imagedb-1257991841.cos.ap-beijing.myqcloud.com/WX20210109-211307@2x.png
 top: false
 cover: false
 coverImg: 

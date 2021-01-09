@@ -1,7 +1,7 @@
 ---
 title: 给未来宝宝的日记3-价值观
 date: 2020-02-14 08:00:00
-img: 
+img: https://imagedb-1257991841.cos.ap-beijing.myqcloud.com/231901610192745_.pic.jpg
 top: false
 cover: false
 coverImg: 

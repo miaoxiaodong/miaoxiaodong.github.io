@@ -1,7 +1,7 @@
 ---
 title: 给未来宝宝的日记9-榴莲
 date: 2020-03-31 08:00:00
-img: 
+img: https://imagedb-1257991841.cos.ap-beijing.myqcloud.com/231871610192656_.pic.jpg
 top: false
 cover: false
 coverImg: 

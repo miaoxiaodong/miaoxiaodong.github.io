@@ -1,7 +1,7 @@
 ---
 title: 给未来宝宝的日记6-名字
 date: 2020-03-19 08:00:00
-img: 
+img: https://imagedb-1257991841.cos.ap-beijing.myqcloud.com/IMG_0326.jpg
 top: false
 cover: false
 coverImg: 

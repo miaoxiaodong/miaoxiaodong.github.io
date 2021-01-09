@@ -1,7 +1,7 @@
 ---
 title: 给未来宝宝的日记12-碎碎念
 date: 2020-06-18 08:00:00
-img: 
+img: https://imagedb-1257991841.cos.ap-beijing.myqcloud.com/231941610193114_.pic.jpeg
 top: false
 cover: false
 coverImg: 

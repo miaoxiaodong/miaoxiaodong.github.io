@@ -1,7 +1,7 @@
 ---
 title: 给未来宝宝的日记4-妈妈的话
 date: 2020-02-20 08:00:00
-img: 
+img: https://imagedb-1257991841.cos.ap-beijing.myqcloud.com/231921610192746_.pic_1.jpeg
 top: false
 cover: false
 coverImg: 

@@ -1,7 +1,7 @@
 ---
 title: 给未来宝宝的日记2-消息传开
 date: 2020-02-08 23:00:00
-img: 
+img: https://imagedb-1257991841.cos.ap-beijing.myqcloud.com/WechatIMG23191.jpeg
 top: false
 cover: false
 coverImg: 

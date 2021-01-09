@@ -1,7 +1,7 @@
 ---
 title: 给未来宝宝的日记11-危险
 date: 2020-05-01 08:00:00
-img: 
+img: https://imagedb-1257991841.cos.ap-beijing.myqcloud.com/WX20210109-200135@2x.png
 top: false
 cover: false
 coverImg: 
