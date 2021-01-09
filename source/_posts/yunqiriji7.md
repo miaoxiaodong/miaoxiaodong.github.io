@@ -1,13 +1,20 @@
 ---
 title: 给未来宝宝的日记7-名字
 date: 2020-03-26 08:00:00
-tags: [宝宝]
-categories: [孕期日记]
+img: 
+top: false
+cover: false
+coverImg: 
+password: 
+toc: false
+mathjax: false
+summary: 
+categories: 孕期日记
+tags:
+  - 宝宝
 ---
 
 宝宝，今天下午妈妈去医院做NT检查了，检查你的颈项透明层，这是第一次畸形筛查。
-
-<!--more-->
 
 爸爸妈妈要表扬你，你表现很棒。检查时你胎位很正，一次检查通过。而且透明层很薄0.13cm，非常好。
 

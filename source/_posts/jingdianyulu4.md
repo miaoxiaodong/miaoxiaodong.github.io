@@ -1,13 +1,20 @@
 ---
 title: 经典语录（四）
 date: 2019-09-14 10:34:04
-tags: [经典语录]
-categories: [经典语录]
+img: 
+top: false
+cover: false
+coverImg: 
+password: 
+toc: false
+mathjax: false
+summary: 
+categories: 经典语录
+tags:
+  - 经典语录
 ---
 
 - 晓说：“快递到二楼榴莲能听到，到三四楼我能听到，直到敲门你才能听到。”我说：“你的听力仅次于狗呀！”“你是夸我还是损我呢？”
-
-  <!--more-->
 
 - 肚子疼，晓在给我揉肚子。我说：“别往上揉，屁都上去了。”“想打嗝了？”
 

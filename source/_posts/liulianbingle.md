@@ -1,15 +1,22 @@
 ---
 title: 榴莲病了
 date: 2020-01-26 10:35:00
-tags: [榴莲]
-categories: [突发事件]
+img: https://imagedb-1257991841.cos.ap-beijing.myqcloud.com/11191610162178_.pic.jpg
+top: false
+cover: false
+coverImg: 
+password: 
+toc: false
+mathjax: false
+summary: 
+categories: 突发事件
+tags:
+  - 榴莲
 ---
 
 榴莲是我家的狗，一只4岁的金毛。
 
 榴莲最近生病了，排尿困难。遛他的时候，每泡尿得尿四五分钟，但也只能挤出来一点点。完全没有他之前一抬腿就能尿一大滩的状态了。
-
-<!--more-->
 
 去年他也有过这个毛病，当时以为是结石，吃了点药，没几天就好了。现在又这样，我也没在意，给买了点“利尿通”，以为吃几天利尿的药就好了。几天过去了，丝毫没有好转，反而越发严重了。尿尿开始成滴状，尿半天才挤出几滴来。
 

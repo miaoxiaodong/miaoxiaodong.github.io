@@ -1,14 +1,20 @@
 ---
 title: 给未来宝宝的日记12-碎碎念
 date: 2020-06-18 08:00:00
-tags: [宝宝]
-categories: [孕期日记]
-
+img: 
+top: false
+cover: false
+coverImg: 
+password: 
+toc: false
+mathjax: false
+summary: 
+categories: 孕期日记
+tags:
+  - 宝宝
 ---
 
 宝宝，爸爸妈妈好久没给你写日记了，今天妈妈来医院检查糖耐，就是喝一大杯糖水，然后监测血糖，对于妈妈不爱吃甜食的来说真是个苦差事。妈妈喝完之后，爸爸尝了一滴，还挺好喝的。
-
-<!--more-->
 
 之前好像也忘记告诉你了，无创DNA检查结果挺好的，我们就知道宝宝肯定非常健康。你要继续保持呦，一直健健康康的。
 

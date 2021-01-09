@@ -1,9 +1,18 @@
 ---
 title: 普吉岛旅行记
 date: 2019-04-27 16:00:57
-tags: [泰国, 普吉岛]
-categories: [旅行游记]
+img: https://imagedb-1257991841.cos.ap-beijing.myqcloud.com/8901568382255_.pic.jpg
+top: true
+cover: true
+coverImg: 
+password: 
 toc: true
+mathjax: false
+summary: 想去泰国很久了，去年婚假就应该去的，结果事情太多耽误了，只来了场普通的自驾游，我们今年8月份结婚，结婚前达成去泰国的愿望，也算蜜月旅行了。2019年4月20日-26日，去泰国普吉岛7天5晚自由行。
+categories: 旅行游记
+tags:
+  - 泰国
+  - 普吉岛
 ---
 
 长文劝退！这篇游记刷新了字数记录，我竟然水了2万2千多字，事无巨细地记录了我俩的普吉岛之旅。既有时间又无聊的时候，可以慢慢看……
@@ -11,8 +20,6 @@ toc: true
 想去泰国很久了，去年婚假就应该去的，结果事情太多耽误了，只来了场普通的[自驾游](https://chenxiao.wang/2018/12/26/hunjiazijiayou/)。
 
 我们今年8月份结婚，结婚前达成去泰国的愿望，也算蜜月旅行了。2019年4月20日-26日，去泰国普吉岛7天5晚自由行。
-
-<!--more-->
 
 # 出发前
 
@@ -84,7 +91,7 @@ toc: true
 
 ## 抵达
 
-![抵达](https://imagedb-1257991841.cos.ap-beijing.myqcloud.com/8741568357090_.pic_hd.jpg)
+![抵达](https://mmbiz.qpic.cn/mmbiz_jpg/EriachVGVxfWD7qicuVfxpIU0cftfyeQWiaY6coxLK8NZWNJpuocSh1SQyqWq4NicDG73k5d9zxn705S8rQKCcSq2w/640?wx_fmt=jpeg)
 
 签证过关之后去拿行李，出机场。在飞机和机场里都有空调，不觉得泰国有多热。一出机场，眼镜上瞬间蒙起一层雾，跟进了高温大棚一样，又闷又湿又热。
 
@@ -122,7 +129,7 @@ toc: true
 
 回到C栋，找到穿过草坪的小路，出去穿过马路就到了卡伦海滩。
 
-![卡伦海滩](https://imagedb-1257991841.cos.ap-beijing.myqcloud.com/8751568357566_.pic.jpg)
+![卡伦海滩](https://mmbiz.qpic.cn/mmbiz_jpg/EriachVGVxfWD7qicuVfxpIU0cftfyeQWiaSvgGtXsela2ibRZXIGIH0UZj3RE5rQYegFUiaKNyoxZKtpJVAjWMRVDg/640?wx_fmt=jpeg)
 
 ## 卡伦
 

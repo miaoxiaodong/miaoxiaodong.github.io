@@ -1,13 +1,20 @@
 ---
 title: 给未来宝宝的日记2-消息传开
 date: 2020-02-08 23:00:00
-tags: [宝宝]
-categories: [孕期日记]
+img: 
+top: false
+cover: false
+coverImg: 
+password: 
+toc: false
+mathjax: false
+summary: 
+categories: 孕期日记
+tags:
+  - 宝宝
 ---
 
 今天爸爸妈妈去了北大国际医院，查了一下血，确定是你来了。
-
-<!--more-->
 
 在查血之前，验孕试纸测了好多次都显示了你的到来，爸爸妈妈内心也已百分百确信。但还需要一个更为准确的检查，更需要为你出生找一个好医院建档。
 

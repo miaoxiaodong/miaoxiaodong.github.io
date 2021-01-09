@@ -1,13 +1,20 @@
 ---
 title: 给未来宝宝的日记3-价值观
 date: 2020-02-14 08:00:00
-tags: [宝宝]
-categories: [孕期日记]
+img: 
+top: false
+cover: false
+coverImg: 
+password: 
+toc: false
+mathjax: false
+summary: 
+categories: 孕期日记
+tags:
+  - 宝宝
 ---
 
 爸爸的拖延症又犯了，隔了快一周了，才给你写第三封日记。如果爸爸非得附加给你一个期望的话，那就别学爸爸的拖延症。
-
-<!--more-->
 
 最近的日子还是没变，疫情的影响让大家都蜗居了，偶尔出门露个头也得戴口罩，回到家就用消毒水一顿喷，真怀念之前在大街上自由呼吸的日子。
 

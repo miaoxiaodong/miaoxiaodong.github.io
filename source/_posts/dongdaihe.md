@@ -1,14 +1,21 @@
 ---
 title: 东戴河之旅
 date: 2017-07-22 14:22:18
-tags: [东戴河]
-categories: [旅行游记]
+img: https://imagedb-1257991841.cos.ap-beijing.myqcloud.com/301500702443_.pic_hd.jpg
+top: false
+cover: false
+coverImg: 
+password: 
+toc: false
+mathjax: false
+summary: 
+categories: 旅行游记
+tags:
+  - 东戴河
 ---
 2017年5月27日，端午节假期开始前夕，我们提前开启了假期模式，跑到东戴河浪了一圈。
 
 虽然刚入夏没多久，但是北京早已没有了春天的影子，夏天像头疯牛一样来的凶猛。天气好点的中午，堪比六月三伏。今天是7月22日了，一篇游记拖了两个月，这拖延症也是没谁了。到今天我才发现，觉得初夏天气热，我还是too young了。
-
-<!--more-->
 
 “这么热的天，咱们出去玩吧？”我分明记得春天的时候，晓说：“这天不冷不热的，咱们出去玩吧？”真是啥天儿都适合出去玩。
 

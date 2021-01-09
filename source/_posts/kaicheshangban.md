@@ -1,13 +1,20 @@
 ---
 title: 记晓第一次开车上夜班
 date: 2019-02-26 10:35:00
-tags: [开车]
-categories: [日常小事]
+img: 
+top: false
+cover: false
+coverImg: 
+password: 
+toc: false
+mathjax: false
+summary: 
+categories: 日常小事
+tags:
+  - 开车
 ---
 
 2019年2月18日，晓上小夜班，下午自己开车去单位，晚上下夜班再开回来。之前都是我开车去接她，这次体谅我一下，让我休息休息。
-
-<!--more-->
 
 下午3点多，我发微信问她出发了吗，她没回我。快4点了，我给她打电话，竟然还在睡觉。她忘记定闹钟了，如果我没打电话，妥妥的迟到了。
 

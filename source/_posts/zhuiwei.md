@@ -1,14 +1,20 @@
 ---
 title: 记一次追尾
 date: 2019-03-17 10:56:12
-tags: [追尾]
-categories: [突发事件]
+img: https://imagedb-1257991841.cos.ap-beijing.myqcloud.com/6591558448274_.pic_hd.jpg
+top: false
+cover: false
+coverImg: 
+password: 
 toc: true
+mathjax: false
+summary: 
+categories: 突发事件
+tags:
+  - 追尾
 ---
 
 我一般都很小心谨慎的，过马路都要来回看好几遍，开车更是时刻注意安全。觉得撞车这种事不会发生在我身上，即使发生也不会是我的责任。现实狠狠打了我的脸，由于我一时疏忽，追尾了。
-
-<!--more-->
 
 2019年3月17日周日，晓上白班，胃疼难受了一整天。我在家休息没事，就开车去接她下班，免得她自己坐车辛苦。
 

@@ -1,14 +1,20 @@
 ---
 title: 买房风波
 date: 2018-10-07 10:56:12
-tags: [买房]
-categories: [人生大事]
+img: https://mmbiz.qpic.cn/mmbiz_jpg/EriachVGVxfXFwwwVmZexrHksRHL7vZheJEGJwIsnFnXyQMPQTs4Z6uiaSqrVjtKticqQdHK5qzCpYO6cdt78RWbQ/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1
+top: true
+cover: false
+coverImg: 
+password: 
 toc: true
+mathjax: false
+summary: 本文记录了我们历时一年半的买房官司。打官司的很多，但也不是每个人都能遇到，我们不幸中签，也算人生中增加了一段与众不同的经历。
+categories: 人生大事
+tags:
+  - 买房
 ---
 
 本文记录了我们历时一年半的买房官司。打官司的很多，但也不是每个人都能遇到，我们不幸中签，也算人生中增加了一段与众不同的经历。记录下来也是为了以后想起这段往事的时候，能回来看一看。文章很长，写的很烂，全文最珍贵的是结尾那句话，有猎奇心理的可以当故事看，讨厌看长文的可以只看最后一句话。
-
-<!--more-->
 
 ## 签约前
 

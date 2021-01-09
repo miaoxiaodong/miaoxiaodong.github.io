@@ -1,13 +1,20 @@
 ---
 title: 订婚那几天
 date: 2016-10-31 10:35:00
-tags: [订婚]
-categories: [人生大事]
+img: https://imagedb-1257991841.cos.ap-beijing.myqcloud.com/11181610148861_.pic.jpg
+top: false
+cover: false
+coverImg: 
+password: 
+toc: false
+mathjax: false
+summary: 
+categories: 人生大事
+tags:
+  - 订婚
 ---
 
 我和晓订婚很久了，久到开始准备筹备婚礼了。我俩2016年10月30日订婚，终于确定了结婚的良辰吉日：2019年8月25日。
-
-<!--more-->
 
 回想2016年10月份，真是一个忙碌的10月。月初十一长假去参加建鹏的婚礼，回北京不到两周，去[香港玩了四天](https://chenxiao.wang/2016/11/22/xianggang/)。
 
@@ -29,3 +36,4 @@ categories: [人生大事]
 
 这也是我俩人生中第一件大事。
 
+![诸葛亮故里](https://imagedb-1257991841.cos.ap-beijing.myqcloud.com/11181610148861_.pic.jpg)

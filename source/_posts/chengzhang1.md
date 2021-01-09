@@ -1,14 +1,21 @@
 ---
 title: 暖宝成长记1-满两月了
 date: 2020-12-17 08:00:00
-tags: [宝宝]
-categories: [成长记录]
+img: https://imagedb-1257991841.cos.ap-beijing.myqcloud.com/11201610178565_.pic.jpg	
+top: false
+cover: false
+coverImg: 
+password: 
+toc: false
+mathjax: false
+summary: 
+categories: 成长记录
+tags:
+  - 宝宝
 ---
 
 - 身高：62cm
 - 体重：5.96kg
-
-<!--more-->
 
 今天我们暖暖满两月了，小家伙真是一天一个样。
 
@@ -24,3 +31,4 @@ categories: [成长记录]
 
 暖暖，健康快乐的长大吧。
 
+![萌娃](https://imagedb-1257991841.cos.ap-beijing.myqcloud.com/11201610178565_.pic.jpg)

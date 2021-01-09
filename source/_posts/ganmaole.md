@@ -1,13 +1,20 @@
 ---
 title: 感冒了，有个护士老婆是什么体验
 date: 2019-12-25 19:35:00
-tags: [感冒]
-categories: [日常小事]
+img: https://imagedb-1257991841.cos.ap-beijing.myqcloud.com/WechatIMG987.jpeg
+top: false
+cover: false
+coverImg: 
+password: 
+toc: false
+mathjax: false
+summary: 
+categories: 日常小事
+tags:
+  - 感冒
 ---
 
 我有一年多没感冒了，有时还嚣张地炫耀一下：“咱这体质，从不感冒。”每次晓都说：“别说嘴啊，说嘴打嘴。”这次真中招了。
-
-<!--more-->
 
 2019年12月16日周一，这一天都没什么精神，下午跟晓说：“我可能有点感冒，感觉头晕，眼皮发热。”
 

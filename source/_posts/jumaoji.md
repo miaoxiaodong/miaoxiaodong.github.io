@@ -1,15 +1,22 @@
 ---
 title: 橘猫记
 date: 2019-02-17 19:35:00
-tags: [橘猫]
-categories: [突发事件]
+img: https://imagedb-1257991841.cos.ap-beijing.myqcloud.com/756a28f725854db6b0c3af1e539948e9.jpeg
+top: false
+cover: false
+coverImg: 
+password: 
+toc: false
+mathjax: false
+summary: 
+categories: 突发事件
+tags:
+  - 橘猫
 ---
 
 2019年2月13日凌晨，我开车接晓下班，晓的同事也一起同行。
 
 在G6辅路，到百葛桥之前。黑灯瞎火的，一只猫突然窜出来，我太紧张，一下撞上去了。感觉车头撞到了猫，后车轮也压到了。
-
-<!--more-->
 
 晓当时就尖叫了起来，我滑行出了一百多米，才想起来刹车。晓让我开回去看看，盼望着是轻伤，能够治好。往回开是逆行，我靠边停好车，急忙下车跟着晓往回跑，她同事也跟着下来了。
 
@@ -24,3 +31,5 @@ categories: [突发事件]
 那只猫淡橘色，十分瘦长，像是只野猫或流浪猫。十分对不起，因为我让你命丧黄泉，对不起。愿你来生做主子，有铲屎官侍奉左右。
 
 后来看了《惊奇队长》，它和那只噬元兽有点像。
+
+![噬元兽](https://imagedb-1257991841.cos.ap-beijing.myqcloud.com/756a28f725854db6b0c3af1e539948e9.jpeg)

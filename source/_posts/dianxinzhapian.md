@@ -1,13 +1,20 @@
 ---
 title: 以我的小机灵，岂能被你骗了
 date: 2019-08-19 19:35:00
-tags: [电信诈骗]
-categories: [日常小事]
+img: https://imagedb-1257991841.cos.ap-beijing.myqcloud.com/zhapiandianhua3.jpeg
+top: false
+cover: false
+coverImg: 
+password: 
+toc: false
+mathjax: false
+summary: 
+categories: 日常小事
+tags:
+  - 电信诈骗
 ---
 
 2019年8月19日中午，晓打电话给我，让我查一下北京社保中心的电话。我问：“查那干嘛？”晓说：“我刚接到的一个电话……”
-
-<!--more-->
 
 事情是介个样子滴……晓接到一个自称是“北京市医保局工作人员”的电话，来电显示是个手机号（15117956102）。对方说5月17号，晓在上海补办了一张社保卡，并进行了消费，社保报销了15680元。要求她到北京社保局接受调查。这套诈骗话术可得负分，可信度忒低了。装备也不行，怎么也得整个座机号。
 

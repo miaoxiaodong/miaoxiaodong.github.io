@@ -1,14 +1,22 @@
 ---
 title: 婚假自驾游
 date: 2018-12-26 15:09:52
-tags: [自驾, 婚假, 日照]
-categories: [旅行游记]
+img: https://imagedb-1257991841.cos.ap-beijing.myqcloud.com/5671549682582_.pic.jpg
+top: false
+cover: false
+coverImg: 
+password: 
 toc: true
+mathjax: false
+summary: 
+categories: 旅行游记
+tags:
+  - 自驾
+  - 婚假
+  - 日照
 ---
 
 2018年9月12日-21日，我俩休了十天婚假。长假难得，想出去度假，比如去泰国。按照计划，装修8月底完工，完全不影响我们的行程。没想到一再拖延，婚假到了，麻烦事也来了。关于装修，我有时间再写一篇长文记录。除了装修，房屋纠纷还没解决呢。琐事太多，出国游连攻略都没做。休假前，我俩一度想把所有事都抛到脑后，什么都不管了，就去玩。纠结再三，还是放不下。就算出去了，也玩不好。
-
-<!--more-->
 
 ## 9月12日
 

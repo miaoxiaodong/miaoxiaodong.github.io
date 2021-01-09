@@ -1,16 +1,22 @@
 ---
 title: 危险车祸
 date: 2020-05-01 20:56:12
-tags: [车祸]
-categories: [突发事件]
-toc: true
+img: https://imagedb-1257991841.cos.ap-beijing.myqcloud.com/10331588398795.jpg
+top: false
+cover: false
+coverImg: 
+password: 
+toc: false
+mathjax: false
+summary: 
+categories: 突发事件
+tags:
+  - 车祸
 ---
 
 距离上次追尾刚过去一年多，今天又经历了一场车祸。这次真把我俩吓完了，晓怀着4个月的身孕，被人直撞了车头，安全气囊都崩出来了……
 
 2020年5月1日，今年五一劳动节放了五天假，而且国内疫情刚刚结束，五一前放开了疫情防控措施，入京者不用隔离14天了。大家都快憋疯了，趁着这机会都像褪了套的狗子一般，出窝撒野。
-
-<!--more-->
 
 今天我俩计划着回家一趟，把不穿的衣服带回去。再买点东西，为明天的爬南山运动做准备。顺便把昨晚租的车还回去。
 

@@ -1,13 +1,20 @@
 ---
 title: 经典语录（三）
 date: 2019-02-09 10:34:04
-tags: [经典语录]
-categories: [经典语录]
+img: 
+top: false
+cover: false
+coverImg: 
+password: 
+toc: false
+mathjax: false
+summary: 
+categories: 经典语录
+tags:
+  - 经典语录
 ---
 
 - 这几天北京零下十几度，我说：“早上上班冻的跟狗似的。”晓说：“那我呢？我走的更早。”“你冻的跟母狗似的。”
-
-<!--more-->
 
 - 开车，车窗上结雾气。我问晓：“你知道这怎么形成的吗？”晓说：“车窗温度低，水蒸气液化成水珠了。”“呦呵，你这物理知识很丰富嘛？”“云里雾里（物理）吧。”
 

@@ -1,14 +1,21 @@
 ---
 title: 上海迪士尼
 date: 2019-10-07 22:04:53
-tags: [迪士尼,上海]
-categories: [旅行游记]
+img: https://imagedb-1257991841.cos.ap-beijing.myqcloud.com/DSC03048.JPG
+top: false
+cover: false
+coverImg: 
+password: 
 toc: true
+mathjax: false
+summary: 
+categories: 旅行游记
+tags:
+  - 迪士尼
+  - 上海
 ---
 
 这篇游记拖了好久了，马上就拖到一周年了。如果不是晓的百般督促，我估计能一直拖下去。因为时间太久了，很多细节都忘了。拖得越久，忘得越多。忘得越多，越不想写。
-
-<!--more-->
 
 其实这是2018年9、10月份三次旅行的第三篇游记，前两篇是[阿那亚之旅](https://chenxiao.wang/2018/12/23/anaya/)和[婚假自驾游](https://chenxiao.wang/2018/12/26/hunjiazijiayou/)。剩下的这篇一直拖到现在，好在只有上海迪士尼一日游，赶紧写完吧。
 

@@ -1,14 +1,21 @@
 ---
 title: 给未来宝宝的日记13-碎碎念
 date: 2020-08-08 08:00:00
-tags: [宝宝]
-categories: [孕期日记]
+img: 
+top: false
+cover: false
+coverImg: 
+password: 
+toc: false
+mathjax: false
+summary: 
+categories: 孕期日记
+tags:
+  - 宝宝
 
 ---
 
 宝宝，快两个月没给你写日记了，爸爸懒癌晚期患者，你可别学我。
-
-<!--more-->
 
 今天我和妈妈带着你回奶奶家了，这是你第一次出远门（虽然你还在妈妈肚子里）。你现在长得越来越快了，妈妈的体重都有点搂不住了，不知道你出生的时候会有多少斤。我们都盼着你能瘦一点，出生的时候妈妈和你都能少些辛苦。
 
