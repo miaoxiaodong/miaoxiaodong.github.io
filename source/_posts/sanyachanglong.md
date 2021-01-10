@@ -3,7 +3,7 @@ title: 十一长假旅行记
 date: 2017-11-26 15:09:52
 img: https://imagedb-1257991841.cos.ap-beijing.myqcloud.com/DSC01442.JPG
 top: false
-cover: true
+cover: false
 coverImg: 
 password: 
 toc: true

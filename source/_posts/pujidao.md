@@ -2,8 +2,8 @@
 title: 普吉岛旅行记
 date: 2019-04-27 16:00:57
 img: https://imagedb-1257991841.cos.ap-beijing.myqcloud.com/8901568382255_.pic.jpg
-top: true
-cover: true
+top: false
+cover: false
 coverImg: 
 password: 
 toc: true
