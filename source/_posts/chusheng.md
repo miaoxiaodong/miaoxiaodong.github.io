@@ -45,7 +45,7 @@ tags:
 
 这小家伙跟我们耗上了，天亮了都没动静。没办法了，大刑伺候！
 
-![产科病房9A门口，来住院了](https://imagedb-1257991841.cos.ap-beijing.myqcloud.com/11271610253921_.pic.jpg)
+![产科病房](https://imagedb-1257991841.cos.ap-beijing.myqcloud.com/WechatIMG1132.jpg)
 
 ## 催产
 
