@@ -1,7 +1,7 @@
 ---
 title: 阿那亚之旅
 date: 2018-12-23 22:04:53
-img: https://mmbiz.qpic.cn/mmbiz_jpg/EriachVGVxfX94WUibibaPWspo3UgFIxBv7VCqjszQUCYmmQKdycV7hjXicOUyIK0tpdrBwiaE1iaZibPD3DwPolg9YBg/640?wx_fmt=jpeg
+img: https://imagedb-1257991841.cos.ap-beijing.myqcloud.com/640.jpeg)
 top: false
 cover: false
 coverImg: 
@@ -14,7 +14,7 @@ tags:
   - 阿那亚
 ---
 
-![阿那亚](https://mmbiz.qpic.cn/mmbiz_jpg/EriachVGVxfX94WUibibaPWspo3UgFIxBv7VCqjszQUCYmmQKdycV7hjXicOUyIK0tpdrBwiaE1iaZibPD3DwPolg9YBg/640?wx_fmt=jpeg)
+![阿那亚](https://imagedb-1257991841.cos.ap-beijing.myqcloud.com/640.jpeg)
 
 今年的旅行全部集中在了九月和十月，这两个月琐事太多，原本计划的泰国之旅由于没时间准备搁浅了。退而求其次，百忙之中偷闲出游了三次，因此我也欠下了三篇游记。我一直在努力建立记录人生大事件的习惯，包括每次旅游必须要写一篇游记。奈何拖延症严重，每次都拖好久才开始写，写完就更久了。没想到这次拖了“一年”……
 
@@ -26,7 +26,7 @@ tags:
 
 7点钟我们到达了阿那亚，这是一个在秦皇岛黄金海岸的度假社区。社区周围很荒凉，社区内就很高端了，有海景别墅，花园洋房，主打休闲、旅游、度假。按规定下午1点才能办理入住，我俩过去的时候工作人员还没上班。问了一下，现在就可以入住，只是房屋还没打扫。我俩有幸成为今天第一位办理入住的游客，当然不会有什么礼品，中午办理入住时游客多到需要排队。爸妈和姐哥，以及沫沫和小鱼两个小宝贝还在路上呢，旅行的大部队中午才能到。我俩算是先锋官了，经过一夜的长途跋涉，率先领略了度假区的风光。
 
-![海景房](https://mmbiz.qpic.cn/mmbiz_jpg/EriachVGVxfX94WUibibaPWspo3UgFIxBv7z604O4XafIgVWFj5VCx0EwUamNreX4ll7QIbsQDm2AoO9g9SOopnlA/640?wx_fmt=jpeg)
+![海景房](https://imagedb-1257991841.cos.ap-beijing.myqcloud.com/haijingfang.jpeg)
 
 姐订的房间在小院，“小院”是阿那亚里的一片海景别墅区的名字，那里都是独栋带院子的靠海大别墅。姐订了别墅的一层，是一套三居室，有两个卧室可以透过落地窗直接看到大海，晓特别爱这两个卧室，一眼望去：绿色的草坪，黄色的海滩，蓝色的大海。别墅外围是绿草如茵的院子，穿过客厅的玻璃门可以直接进到院子里，出了院子，穿过步行道就是海滩。一切都是那么的闲适，没有半点都市的忙碌气息。住海景大别墅的感觉，跟住城市的鸽子笼就是不一样。
 
@@ -34,7 +34,7 @@ tags:
 
 我开了一晚上的车，晓在车上迷迷瞪瞪地也没睡多久。我俩本来应该疲惫不堪，但现在倦意全无，迫不及待地跑到海滩上浪一把。上次旅行还是去年十一长假去三亚和长隆，这一年我俩事太多了，一直也没时间、没心情、没钱出来浪。这次是姐计划安排了阿那亚之旅，也是小鱼人生的第一次旅行，我记得沫沫的第一次旅行是去东戴河吧？这次沫沫荣升为哥哥，自然不能跟上次一样只玩沙子了。
 
-![小院](https://mmbiz.qpic.cn/mmbiz_jpg/EriachVGVxfX94WUibibaPWspo3UgFIxBv7Z0HgzydRhd7APibNnp9eBicooNzbf3V5ib6RBnEAHysuv2CR8jqzfPGFQ/640?wx_fmt=jpeg)
+![小院](https://imagedb-1257991841.cos.ap-beijing.myqcloud.com/xiaoyuan.jpeg)
 
 从院子和海滩之间有一条步行道，道路由一半橡胶一半木板并行构成，偶尔遇到一位在橡胶道上晨跑的大叔，可能是这里久居的富豪吧？道路边是石块砌成的半米高的矮墙，隔开了沙滩和跑道，这样避免沙子都弄到路上了。隔一段就会有进入沙滩的出入口，在出入口处会有冲脚的水龙头，可以冲冲脚上的沙子，特别人性化。我们来的比较早，路上和海滩上几乎没有人。今天天气特别好，蔚蓝的天空，深蓝的大海，金黄的沙滩，暖意十足的阳光，休闲中透着惬意，踩着沙滩，跑到海边，让海水漫过脚面，我俩真的放松身心了。
 
@@ -44,13 +44,13 @@ tags:
 
 不一会儿到了终点站，终点站是两条线路的换乘站，社区的第一食堂也在这里，周围还有一些餐厅。我俩迫不及待的进去看看有什么好吃的，赶的时间比较尴尬，早餐时间已过，午餐时间没到，什么吃的都没有。自营的这些餐厅也和食堂一样，11点半开始供应午餐。无奈，先游美景吧。社区内景色不错，绿色植物特别多。有树、有花、有草，但也只可怡情，不能充饥。饥肠辘辘，便兴趣缺缺。
 
-![高尔夫球场](https://mmbiz.qpic.cn/mmbiz_jpg/EriachVGVxfX94WUibibaPWspo3UgFIxBv7SRDwCIKwXA13iblWvL4FBQjv36QHHloavVjECupej5o5YOkYKn9xYrQ/640?wx_fmt=jpeg)
+![高尔夫球场](https://imagedb-1257991841.cos.ap-beijing.myqcloud.com/gaoerfuqiuchang.jpeg)
 
 这边还有高尔夫球场，场边有好多人在挥杆往场内打球，都是一副大力出奇迹的样子使劲抡，这是比进洞，还是比谁打得远呢？我俩看了一会儿，有个教练模样的人走过来问我们要不要试试，我俩微笑着摇头说：“不用了。”然后一副缓慢沉稳地样子走下台阶离开了，步伐中透漏着会打高尔夫但现在不想打的贵族气质，其实表面彰显沉稳，内心慌的一批。
 
 转了一圈，来到一个广场，广场是橡胶地面，中间有各种喷水的设备。有好多小朋友在嬉戏打闹，家长们坐在广场周围的长凳上。我对一个吊桶突然产生了莫名的兴趣，那是一个有两米多高的柱子，柱子顶端横着出来五根横杆，每个横杆上面吊着一个锥形的桶，桶里的水快满了，往下沥沥拉拉地流着。我走过去伸手接水，晓也和我一起过去了。水打在我的手上冰凉凉的，我看了一眼胸前的相机，想别把相机弄湿了，然后转身将相机往外让让。这时就听见头顶哗啦一声，一桶水从我身后啪地一声打在地上，我条件反射般跳了起来，就听见晓喊了一声：“哎呀——我的鞋！”原来每个吊桶里会不断加水，当吊桶完全满了就会一倾而下，我俩完全不知道是这种套路，导致差点湿身。如果我刚才没有转身，那一桶水估计就倒头上了，我幸免于难，晓的鞋却都湿了。
 
-![广场](https://mmbiz.qpic.cn/mmbiz_jpg/EriachVGVxfX94WUibibaPWspo3UgFIxBv7kV06LI5kbVVd64ar0D0EjTibwicYZ5r8A1YOJFoOpylfrpnrxszBWXmA/640?wx_fmt=jpeg)
+![广场](https://imagedb-1257991841.cos.ap-beijing.myqcloud.com/guangchang.jpeg)
 
 我俩在广场附近的超市买了点养乐多和冰激凌，超市里也没什么吃的。然后找了两个椅子坐下，这边人比较少，晓将鞋脱了放到阳光下晒着，时不时责备我去玩水导致她湿鞋。我看了看时间，离11点半没多久了，索性不回别墅，再等一会儿直接去吃饭。
 
@@ -58,7 +58,7 @@ tags:
 
 我们打包完往别墅走的时候，姐他们到达入住大厅办理入住手续。这时办理入住的人特别多，还需要拍照。我们坐上摆渡车回到小院，晓回别墅，我去门口接姐他们。办理完入住回到别墅，度假大部队到齐了。沫沫对新环境表现出极大的兴趣，站在别墅院子里，摆他的专属姿势——高举双手的耶！小鱼还不能像他哥哥那样有这么多丰富技能，只能躺在人怀里乐。
 
-![海滩](https://mmbiz.qpic.cn/mmbiz_jpg/EriachVGVxfX94WUibibaPWspo3UgFIxBv7wqeRib7ibhLeaqhSHY0owtRIEZJGazflDm47YcLUYLNr4HoN5kGFbicBQ/640?wx_fmt=jpeg)
+![海滩](https://imagedb-1257991841.cos.ap-beijing.myqcloud.com/haitan.jpeg)
 
 中午的阳光特别好，适合下海游泳。我上次游海泳还是在三亚，一次很不完美的海泳体验。这次机会难得，不容错过。沫沫率先换上泳衣，晓看了我一眼，说：“你换泳裤去吧。”我有些腼腆，一家子人面前我还是不太好意思的。晓看我没动说：“别害羞了，赶紧的。”我去换了泳裤，T恤还是没脱。之前坚持了三个月的健身又搁置了，练出的两块腹肌快消失了，要是坚持到现在的话，岂不是得有四块腹肌了？那T恤就不用穿了。
 
@@ -66,11 +66,11 @@ tags:
 
 这次出游准备充分，沫沫带了一条小船和一辆越野车。小船在海里不能正常航行，海浪太大了很容易卷进海里，适合在泳池里玩。那辆越野车的越野性能略差，在沙滩上只能在原地空转，连扬起沙子的高度都有限。沫沫对此也毫不在意，玩的特别开心，还特别热衷于往衣服堆上扬沙子，扬完乐的特别开心，小姨问他：“谁是小坏包呀？”沫沫十分开心：“我似小坏包”。这次还带来了上次去东戴河带的那个大虫子风筝，晓也体验了一把在海边放风筝，今天风挺大，风筝不好控制。
 
-![晓放风筝](https://mmbiz.qpic.cn/mmbiz_jpg/EriachVGVxfX94WUibibaPWspo3UgFIxBv7ncG7RVvJJNxUYs2VZXK7EV8BHd1knlVrJGr8cvSjvsJRhmg36jpueA/640?wx_fmt=jpeg)
+![晓放风筝](https://imagedb-1257991841.cos.ap-beijing.myqcloud.com/fangfengzheng.jpeg)
 
 下午回到别墅休息了一会儿，去第一餐厅吃晚饭。吃饭之前沫沫在我和他姥爷的辅助之下，完成了N多次的攀岩活动，小孩的精力是无限的，坐了一上午车，在海滩上玩了一下午，现在还是兴趣高涨。小鱼全程看他哥哥玩，也乐的开心。吃完晚饭，在社区里逛了逛，夜晚这里没有什么娱乐活动，特别是没有广场舞。在一个音乐喷泉周围围着三五人群，沫沫对音乐有着特别的兴趣和天赋，在灯光的映照下，随着音乐喷出五彩斑斓的水柱，我陪他坐在边上看喷泉，姐和晓去逛旁边的商店了，沫沫看了很久，一曲终了，再等下一曲，完全没有离开的意思。
 
-![喷泉](https://mmbiz.qpic.cn/mmbiz_jpg/EriachVGVxfX94WUibibaPWspo3UgFIxBv70QzjeDeVxn85tRicptwmvJiaspbCslJCqjgsUAH3wRuEFRPiauW9eEVAg/640?wx_fmt=jpeg)
+![喷泉](https://imagedb-1257991841.cos.ap-beijing.myqcloud.com/penquan.jpeg)
 
 晚上，终于感觉到累了，窗户外的海滩海面漆黑一片，听着轰隆隆的海浪声，很快就入睡了……
 
@@ -80,7 +80,7 @@ tags:
 
 我们继续往前走，想找一下冰激凌车，找到之后发现今天没有运营，晓十分失望。在海滩上还有一个大相框，这里人不是很多，我和晓开开心心地完成留影。事实证明，在没有人的情况下，我的垃圾照相技术也照不出任何美感。我的秘诀是多拍，拍一百张，总有一两张还不错的。
 
-![阳光明媚](https://mmbiz.qpic.cn/mmbiz_jpg/EriachVGVxfX94WUibibaPWspo3UgFIxBv7yGBwkx9N4bVfXAaKgEJc47oGicKLUvT0p44ejib1gCWv0tDx9mucYVrQ/640?wx_fmt=jpeg)
+![阳光明媚](https://imagedb-1257991841.cos.ap-beijing.myqcloud.com/yangguangmingmei.jpeg)
 
 晚上和晓还有哥和沫沫去了海滩，漆黑的海面，轰隆隆的海浪声，总能令人生出莫名的恐惧。沫沫站在海滩上一艘大船上拍照，满脸的尬笑，感觉沫沫还是有点害怕。在海滩上逛了一会儿，哥他们回别墅了。我和晓继续往前走，别墅附近的海滩比较冷清，远处还是有灯红酒绿的地方。我们到了一间酒吧，晓要了一杯湛蓝色的鸡尾酒，听着音乐享受着不多的惬意时光。明天就要回去了，这是在阿那亚的最后一个夜晚（总共就住了两晚）。
 

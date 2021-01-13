@@ -1,7 +1,7 @@
 ---
 title: 蓬莱两日游
 date: 2017-03-14 18:06:32
-img: https://mmbiz.qpic.cn/mmbiz_jpg/EriachVGVxfVO4MsQLu0q4kIlDdFd8ATtsiagfiaVOhKcn0BtsB0mficXEcdkDS15FYuxnutqafnV3uicOIGibUjKKNA/640?wx_fmt=jpeg
+img: https://imagedb-1257991841.cos.ap-beijing.myqcloud.com/640.jpeg
 top: false
 cover: false
 coverImg: 
@@ -14,7 +14,7 @@ tags:
   - 蓬莱
 ---
 
-![蓬莱八仙](https://mmbiz.qpic.cn/mmbiz_jpg/EriachVGVxfVO4MsQLu0q4kIlDdFd8ATtsiagfiaVOhKcn0BtsB0mficXEcdkDS15FYuxnutqafnV3uicOIGibUjKKNA/640?wx_fmt=jpeg)
+![蓬莱八仙](https://imagedb-1257991841.cos.ap-beijing.myqcloud.com/640.jpeg)
 
 ## 出发前
 
@@ -42,7 +42,7 @@ tags:
 
 我看了一眼天气预报：大雾预警！我擦嘞，我都看见雾了才来预警，还有个鸡毛用。蓬莱的雾起的真猛，不一会儿海边已经看不见了，海风越刮越大，雾却越刮越浓。晓一副愁眉苦脸的样子：“为什么我每次来山东海边都是这个样子？”上次她去青岛，看到的也是浓雾笼罩下的大海。我耸耸肩表示无能为力，我能怎么样，我也很绝望啊！
 
-![强大的雾天](https://mmbiz.qpic.cn/mmbiz_jpg/EriachVGVxfVO4MsQLu0q4kIlDdFd8ATtE38eH5BpV6EGHjvKPa0zxfJZFlYDsEauoHxcBdrV4VmP9h3pt6I8xA/640?wx_fmt=jpeg)
+![强大的雾天](https://imagedb-1257991841.cos.ap-beijing.myqcloud.com/640-20210114001747910.jpeg)
 
 ## 蓬莱阁
 
@@ -52,11 +52,11 @@ tags:
 
 蓬莱阁在一座临海的山上，山上有各种庙宇，佛道皆有，道教居多。有三清殿、吕祖殿、天后宫、龙王宫、弥陀寺、蓬莱阁，以蓬莱阁最为壮观，从蓬莱阁往下看就是波澜壮阔的大海，遗憾的是放眼望去白茫茫一片全是雾气，海面都看不到。所有庙宇都供奉着神像，无一例外都有卖香烛、祈福卡之类的摊位。见到游客就以祈福送子保平安来推销产品，一排香128，保你平安又大发，来年生个胖娃娃。灵不灵自己体会，反正对于此类推销我是一概谢绝。
 
-![大雾下的蓬莱阁景区](https://mmbiz.qpic.cn/mmbiz_jpg/EriachVGVxfVO4MsQLu0q4kIlDdFd8ATtuAkeC6QroZoNiclW61iaxoo0WZYBLJkfZawdjpOX1CBtSj842HJ04EBA/640?wx_fmt=jpeg)
+![大雾下的蓬莱阁景区](https://imagedb-1257991841.cos.ap-beijing.myqcloud.com/640-20210114001814310.jpeg)
 
 蓬莱阁上还有好几座炮台，大炮筒锈迹斑斑，点引线的眼都锈死了，想当年是不是还轰沉过海盗船？千百年来一直镇守着蓬莱海岸线，让我想起了历史上那副绝对：烟锁池塘柳，炮镇海城楼。此刻我为我的博学而骄傲，看到这里的景象我脑海中不是：卧槽，雾真他妈大，炮真他妈粗。而是一副十分应景的对联。得意之际来到城墙边，想看看下面的大海，海风裹挟着浓雾扑了一脸，“卧槽，真他妈冷！”
 
-![荒凉的蓬莱阁景区](https://mmbiz.qpic.cn/mmbiz_jpg/EriachVGVxfVO4MsQLu0q4kIlDdFd8ATt1OPIpVPHDflyEBUcXbz2uJklibokdwo4E5BqZUBb6vMibL0PxAlvY2icQ/640?wx_fmt=jpeg)
+![荒凉的蓬莱阁景区](https://imagedb-1257991841.cos.ap-beijing.myqcloud.com/640-20210114001839951.jpeg)
 
 两个人在蓬莱阁溜达了一圈，冻的鼻涕都出来了。说好的面朝大海，春暖花开呢？到处都是雾气笼罩，海风凛冽。果然是人间仙境，在人间只有神仙才能住的地方！回到酒店吹了半天空调也没缓过劲来，酒店还没有暖气，刚来知道没暖气的时候，我就开始方了，这哪是度假，简直是找罪受。下午为了避免冻感冒，去逛商场了。果然商场才是适合人待的地方，外面只适合神仙待。商城逛腻了，买了张电影票，看《金刚狼3》。旅游看电影也算是一段“传奇笑话”。
 
@@ -70,7 +70,7 @@ tags:
 
 有一处是食人鱼，可以买肉喂它，不知道是不是真的食人鱼，小小的，每条鱼的嘴角上都有一抹血红，和电影上的差别很大。我用小木棍上的细线绑着肉去喂它，真的是扑上去就撕咬，扽细线的力气也挺大的。我猛的一拽木棍，差点把一条食人鱼拽出来，不知道拽出来会不会咬我。片刻间线上的肉就被撕扒光了，肉吃完了全都散开了。
 
-![食人鱼](https://mmbiz.qpic.cn/mmbiz_jpg/EriachVGVxfVO4MsQLu0q4kIlDdFd8ATtlslwCMvoIbib4HAMZWKd0lbGS1503xCFhXbmicpUkm8yibkjT88h1YLAA/640?wx_fmt=jpeg)
+![食人鱼](https://imagedb-1257991841.cos.ap-beijing.myqcloud.com/640-20210114001853821.jpeg)
 
 还有一处是海狮，那是一头没见过世面的海狮，竟然会和游客互动。它会拱你放在玻璃上的手，移动手还会跟着你的手跑，会和你打招呼，会露出水面吐泡泡。多亏玻璃是全封闭的，不然我猜它会漫过玻璃往外吐水，吐游客一身。对于喜欢动物的晓来说，今天可真是玩爽了，每个展览处都停留一会儿和里面的动物打招呼，当然这些动物都是见过世面的，都没有理她的。那头海狮是个例外，和她玩的格外的好，不理周围几个小孩，唯独跟着她的手跑，弄的那几个小孩好郁闷。隔壁的海象就比较高冷，一看就是久经“游场”的动物，不论晓怎么和它打招呼，它都不理，自顾自的游着。
 
@@ -80,17 +80,17 @@ tags:
 
 我们如愿以偿的看到了美人鱼表演和海底芭蕾表演，晓说是我如愿以偿，因为表演的都是精瘦的漂亮妹子们。妹子们在鱼群里翩翩起舞，时而上浮，时而下潜，优美的舞姿令我想起了捕鱼达人，为啥没有一个吐网的大炮？我说我想捕旁边的大海龟你信不？美人鱼表演讲述了一个动人的爱情故事，反正我是没看明白，王子潜下来的那一刻我想退票，转念一想无票可退。那哪是王子，就是个大肚囊子嘛，潜水服都裹不住了。海底芭蕾是妹子们穿着比基尼，在水中……我不写了，后面的如下图。
 
-![海底芭蕾](https://mmbiz.qpic.cn/mmbiz_jpg/EriachVGVxfVO4MsQLu0q4kIlDdFd8ATtPVibBYcRRdI8m15CZ9MUick9gVhpM4bfWcaPWCZ1xl2ohRTBFqNBkMlg/640?wx_fmt=jpeg)
+![海底芭蕾](https://imagedb-1257991841.cos.ap-beijing.myqcloud.com/640-20210114001919219.jpeg)
 
 看完美人鱼和海底芭蕾的表演，下面比较精彩的就剩海洋动物的表演了，海狮和海豚们的表演。和香港海洋公园里的动物表演差不多，让海狮和人类打招呼、拍手、倒立、做数学题等等，让海豚跳高，顶球，转呼啦圈等等，还找了一个游客互动。对于每天都要进行几次表演的他们也都是轻车熟路，不知道它们是不是喜欢做这些表演，但喜欢吃是肯定的，表演过程中会有吃的，为了口吃谁都不容易，动物们又何尝不是。
 
 从海洋公园里出来，吃了一顿海鲜火锅。有令人难忘的海肠子，吃的过程中在网上搜了一下海肠，然后就不想吃了。
 
-![海肠子涮火锅](https://mmbiz.qpic.cn/mmbiz_jpg/EriachVGVxfVO4MsQLu0q4kIlDdFd8ATtjicEMKojibzib8IXVKCMpHciaVtEGNVWuWrgyHIBJGib4DstGqSm0A90UUg/640?wx_fmt=jpeg)
+![海肠子涮火锅](https://imagedb-1257991841.cos.ap-beijing.myqcloud.com/640-20210114001937399.jpeg)
 
 蓬莱的天气还是比较冷，但是今天没雾了。吃完饭去海边走了走，海风呼啸，海浪一浪叠一浪，待了一会就冻得不行了。往回走的时候发现鞋上沾了些黑色的东西，我说：“这啥？海屎吗？”也没在意，想回家刷一下就好了。后来发现是黑油，无论如何都刷不掉，废了两双鞋。
 
-![蓬莱的海](https://mmbiz.qpic.cn/mmbiz_jpg/EriachVGVxfVO4MsQLu0q4kIlDdFd8ATtIfD6icPEOWh6CTljlBcAyHQ9Vm6oNsqq1lXjYiarfdcPkqPWfzzB1ykg/640?wx_fmt=jpeg)
+![蓬莱的海](https://imagedb-1257991841.cos.ap-beijing.myqcloud.com/640-20210114001958356.jpeg)
 
 ## 回程
 
