@@ -24,7 +24,7 @@ tags:
 
 
 
-<video width="400" height="auto" controls> 
+<video  width="100%" height="auto" controls> 
   <source src="https://imagedb-1257991841.cos.ap-beijing.myqcloud.com/163903.MP4"> 
 </video>
 
