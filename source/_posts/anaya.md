@@ -1,7 +1,7 @@
 ---
 title: 阿那亚之旅
 date: 2018-12-23 22:04:53
-img: https://imagedb-1257991841.cos.ap-beijing.myqcloud.com/640.jpeg)
+img: https://imagedb-1257991841.cos.ap-beijing.myqcloud.com/anaya640.jpeg
 top: false
 cover: false
 coverImg: 
@@ -14,7 +14,7 @@ tags:
   - 阿那亚
 ---
 
-![阿那亚](https://imagedb-1257991841.cos.ap-beijing.myqcloud.com/640.jpeg)
+![阿那亚](https://imagedb-1257991841.cos.ap-beijing.myqcloud.com/anaya640.jpeg)
 
 今年的旅行全部集中在了九月和十月，这两个月琐事太多，原本计划的泰国之旅由于没时间准备搁浅了。退而求其次，百忙之中偷闲出游了三次，因此我也欠下了三篇游记。我一直在努力建立记录人生大事件的习惯，包括每次旅游必须要写一篇游记。奈何拖延症严重，每次都拖好久才开始写，写完就更久了。没想到这次拖了“一年”……
 
