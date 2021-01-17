@@ -1,7 +1,7 @@
 ---
 title: 暖宝成长记4-仨月了
 date: 2021-01-17 08:00:00
-img: 
+img: https://imagedb-1257991841.cos.ap-beijing.myqcloud.com/11421610852194_.pic.jpg
 top: false
 cover: false
 coverImg: 
