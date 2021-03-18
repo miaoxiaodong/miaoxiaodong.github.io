@@ -8,7 +8,7 @@ coverImg:
 password: 
 toc: true
 mathjax: false
-summary: “十月怀胎，一朝分娩。”孕育一个宝宝可真不容易！老婆，辛苦你了。
+summary: “十月怀胎，一朝分娩。”孕育一个宝宝可真不容易！老婆，辛苦你了。暖宝，愿你健康快乐，爸爸妈妈爱你。
 categories: 人生大事
 tags:
   - 宝宝
