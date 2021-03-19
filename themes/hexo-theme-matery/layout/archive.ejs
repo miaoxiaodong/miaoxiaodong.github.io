@@ -1,12 +1,32 @@
 <%- partial('_partial/bg-cover') %>
+    <div id="category-cloud" class="container chip-container">
+        <div class="card">
+            <div class="card-content">
 
-<main class="content">
+                <article class="container articles">
+                    <% var dateCursor %>
+                    <% page.posts.each(function (post) { %>
+                        <% if(date(post.date, "YYYY" ) !==dateCursor) { %>
+                            <% dateCursor=date(post.date, "YYYY" ) %>
+                                <p class="h5" style="font-size: large;"><%= dateCursor %></p>
+                            <% } %>
+                            <a href="<%- url_for(post.path) %>" class="">
+                                <div style="width: 100%; height: 40px;">
+                                    <div class="h4"><%= post.title %></div>
+                                    <div style="float: right;"><%- date(post.date, "MM-DD" ) %></div>
+                                </div>
+                            </a>
+                    <% }) %>
+                </article>
+            </div>
+        </div>
+    </div>
 
-    <% if (theme.postCalendar) { %>
+    <!-- <% if (theme.postCalendar) { %>
     <%- partial('_widget/post-calendar') %>
-    <% } %>
+    <% } %> -->
 
-    <%
+    <!-- <%
     /**
      * hashCode function.
      *
@@ -121,10 +141,9 @@
             </article>
         </div>
         <% }); %>
-    </div>
+    </div> -->
 
-</main>
-
-<% if (page.total > 1) { %>
+<% if (page.total> 1) { %>
 <%- partial('_partial/paging') %>
 <% } %>
+            

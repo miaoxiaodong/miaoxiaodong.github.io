@@ -10,9 +10,9 @@ menu:
   Tags:
     url: /tags
     icon: fas fa-tags
-  # Archives:
-  #   url: /archives
-  #   icon: fas fa-archive
+  Archives:
+    url: /archives
+    icon: fas fa-archive
   # About:
   #   url: /about
   #   icon: fas fa-user-circle
