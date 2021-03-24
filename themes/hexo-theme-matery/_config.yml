@@ -4,15 +4,15 @@ menu:
   Index:
     url: /
     icon: fas fa-home
+  Archives:
+    url: /archives
+    icon: fas fa-archive
   Categories:
     url: /categories
     icon: fas fa-bookmark
   Tags:
     url: /tags
     icon: fas fa-tags
-  Archives:
-    url: /archives
-    icon: fas fa-archive
   # About:
   #   url: /about
   #   icon: fas fa-user-circle
@@ -115,8 +115,8 @@ recommend:
 
 # Configure website favicon and LOGO
 # 配置网站favicon和网站LOGO
-favicon: /favicon.png
-logo: /medias/logo.png
+favicon: https://imagedb-1257991841.cos.ap-beijing.myqcloud.com/WechatIMG40617.jpeg #/favicon.png
+logo: https://imagedb-1257991841.cos.ap-beijing.myqcloud.com/WechatIMG40617.jpeg #/medias/logo.png
 
 # The configuration of the second button in the home banner,
 # including the display name of the button, the font awesome icon, and the hyperlink to the button.
