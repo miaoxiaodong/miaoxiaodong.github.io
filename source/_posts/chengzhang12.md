@@ -6,7 +6,7 @@ top: false
 cover: false
 coverImg: 
 password: 
-toc: false
+toc: true
 mathjax: false
 summary: 
 categories: 成长记录
