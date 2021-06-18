@@ -11,7 +11,7 @@ mathjax: false
 summary: 
 categories: 成长记录
 tags:
-  - 宝宝
+  - 天使宝宝
 ---
 
 我们一直称暖宝为天使宝宝，因为她太多表现像小天使一样，太暖心了。

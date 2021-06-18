@@ -11,7 +11,8 @@ mathjax: false
 summary: 
 categories: 成长记录
 tags:
-  - 宝宝
+  - 五个月
+  - 人生第一磕
 ---
 
 - 身高：69cm
@@ -37,4 +38,3 @@ tags:
 <video  width="100%" height="auto" controls> 
   <source src="https://imagedb-1257991841.cos.ap-beijing.myqcloud.com/1615995051181769.mp4"> 
 </video>　
-

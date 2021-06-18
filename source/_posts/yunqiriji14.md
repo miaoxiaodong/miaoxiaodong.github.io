@@ -11,7 +11,7 @@ mathjax: false
 summary: 
 categories: 孕期日记
 tags:
-  - 宝宝
+  - 快出生了
 ---
 
 宝宝，今天你满9个月了。十月怀胎，一朝分娩。马上你就要跟爸爸妈妈见面了，期待吗？

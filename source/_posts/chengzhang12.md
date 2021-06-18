@@ -1,5 +1,5 @@
 ---
-title: 暖宝成长记12-7个月
+title: 暖宝成长记12-七个月
 date: 2021-05-17 08:00:00
 img: https://imagedb-1257991841.cos.ap-beijing.myqcloud.com/11771621267427_.pic.jpg
 top: false
@@ -11,7 +11,8 @@ mathjax: false
 summary: 
 categories: 成长记录
 tags:
-  - 宝宝
+  - 七个月
+  - 叫爸妈
 
 ---
 

@@ -11,7 +11,7 @@ mathjax: false
 summary: 
 categories: 成长记录
 tags:
-  - 宝宝
+  - 第一次吃辅食
 ---
 
 今天中午，暖宝人生中第一次吃辅食。表现令人惊讶，吃的非常好。

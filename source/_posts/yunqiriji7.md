@@ -11,7 +11,7 @@ mathjax: false
 summary: 
 categories: 孕期日记
 tags:
-  - 宝宝
+  - 名字
 ---
 
 宝宝，今天下午妈妈去医院做NT检查了，检查你的颈项透明层，这是第一次畸形筛查。

@@ -11,7 +11,8 @@ mathjax: false
 summary: 
 categories: 成长记录
 tags:
-  - 宝宝
+  - 六个月
+  - 暖宝的创作
 
 ---
 
@@ -26,7 +27,6 @@ tags:
 ---
 
 $$
-
  f
 
 vvDz、xdxd5fc vvv、

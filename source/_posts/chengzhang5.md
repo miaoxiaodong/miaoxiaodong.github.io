@@ -11,7 +11,8 @@ mathjax: false
 summary: 
 categories: 成长记录
 tags:
-  - 宝宝
+  - 一百天
+  - 百天照
 ---
 
 2021年1月25日，暖宝一百天了！时间过的真快，小家伙长的也快。

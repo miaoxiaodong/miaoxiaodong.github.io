@@ -11,7 +11,7 @@ mathjax: false
 summary: 
 categories: 成长记录
 tags:
-  - 宝宝
+  - 两个月
 ---
 
 - 身高：62cm

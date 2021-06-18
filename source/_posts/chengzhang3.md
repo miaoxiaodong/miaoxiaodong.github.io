@@ -11,7 +11,7 @@ mathjax: false
 summary: 
 categories: 成长记录
 tags:
-  - 宝宝
+  - 翻身
 ---
 
 暖宝带给我们的惊喜真是层出不穷，还差三天满三个月，暖宝今天能自己翻身了，之前是拽着她小手能借力翻身。今天妈妈和姥姥在看电视，一回头看她自己已经翻过来了。
@@ -27,4 +27,3 @@ tags:
 <video  width="100%" height="auto" controls> 
   <source src="https://imagedb-1257991841.cos.ap-beijing.myqcloud.com/163903.MP4"> 
 </video>
-

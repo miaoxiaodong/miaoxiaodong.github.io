@@ -11,7 +11,7 @@ mathjax: false
 summary: 
 categories: 孕期日记
 tags:
-  - 宝宝
+  - 确认怀孕
 ---
 
 今天爸爸妈妈去了北大国际医院，查了一下血，确定是你来了。

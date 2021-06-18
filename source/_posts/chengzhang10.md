@@ -11,7 +11,7 @@ mathjax: false
 summary: 
 categories: 成长记录
 tags:
-  - 宝宝
+  - 会爬了
 ---
 
 这篇记录了三个小段：暖宝和榴莲、暖宝和爸爸、暖宝自己。
